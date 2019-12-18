@@ -1,0 +1,63 @@
+
+---Downloaded files---
+The import files for: 02 - Design Studio were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/pl
+Data file = /Users/emil/projects/pl/wp-content/uploads/2019/12/demo-content-import-file_2019-12-17__13-40-09.xml
+Widget file = /Users/emil/projects/pl/wp-content/uploads/2019/12/demo-widgets-import-file_2019-12-17__13-40-09.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Main Widget Area : 
+
+Search - No Title - Widget already exists
+Categories - No Title - Imported
+Pergo Recent Posts - No Title - Imported
+Tag Cloud - Popular tags - Imported
+Image - Image Widget - Imported
+Text - Text Widget - Imported
+Navigation Menu - Products - Imported
+
+Footer Widget Area 1 : 
+
+Pergo About us - PERGO. - Imported
+
+Footer Widget Area 2 : 
+
+Navigation Menu - Products - Imported
+
+Footer Widget Area 3 : 
+
+Navigation Menu - Company - Imported
+
+Footer Widget Area 4 : 
+
+Navigation Menu - Resources - Imported
+
+
+
+---pt-ocdi/after_import---
+
